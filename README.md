@@ -1,3 +1,3 @@
 # flappy-bird
 this is a simple flappy game made with python that you can easily run in your computer.
-[![alt text](https://img.youtube.com/vi/video-id/0.jpg)](https://www.youtube.com/watch?v=video-id)
+[![flappy bird](https://raw.githubusercontent.com/miladbadeleh/flappy-bird/main/flppy-game-video.mkv)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
