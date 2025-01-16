@@ -5,8 +5,8 @@ import random
 pygame.init()
 
 # Define constants
-SCREEN_WIDTH = 400
-SCREEN_HEIGHT = 600
+SCREEN_WIDTH = 1000
+SCREEN_HEIGHT = 1000
 BIRD_WIDTH = 40
 BIRD_HEIGHT = 40
 PIPE_WIDTH = 70
